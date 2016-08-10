@@ -1,0 +1,6 @@
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\Clone Example\Clone Example\bin\Debug\Clone Example.exe.config
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\Clone Example\Clone Example\bin\Debug\Clone Example.exe
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\Clone Example\Clone Example\bin\Debug\Clone Example.pdb
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\Clone Example\Clone Example\obj\Debug\Clone Example.csprojResolveAssemblyReference.cache
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\Clone Example\Clone Example\obj\Debug\Clone Example.exe
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\Clone Example\Clone Example\obj\Debug\Clone Example.pdb
